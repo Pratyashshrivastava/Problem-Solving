@@ -23,7 +23,7 @@ if __name__ == "__main__":
     ret = ''
     for i in seq:
         ret += str(zipped[i])
-
+        
     print(ret)
 
     
