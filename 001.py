@@ -11,4 +11,4 @@ for i in range(t):
     n = n.replace('4','3')
     v = v.lstrip('0')
     print('Case #{}: {} {}'.format(i+1,n,v))
-        
+print('hello')
